@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300&family=Montserrat:ital,wght@0,100;0,500;0,700;1,700&display=swap');
+
+body {
+    max-width: 390px;
+}
+
+img {
+    max-width: 150px;
+}
+
+button {
+    width: 100px;
+    height: 70px;
+    font-size: 18px;
+}
+
+.item {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+p {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    font-style: italic;
+}
+
+.add {
+    background: lightblue;
+    border-radius: 10px;
+    color: black;
+}
+
+.input {
+    text-align: center;
+    margin-bottom: 10px;
+    font-size: 14px;
+}
